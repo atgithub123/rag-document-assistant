@@ -2,10 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) application that uses LangChain, Google Gemini, Hugging Face embeddings, and Streamlit to answer questions based on user-provided PDF and TXT documents.
 
-## Screenshot
-
-![RAG Document Assistant Screenshot](screenshot.PNG)
-
 ## Features
 
 - Load PDF and TXT documents
@@ -142,3 +138,7 @@ This allows users to inspect the information retrieved by the RAG pipeline.
 ## Project Goal
 
 This project demonstrates a end-to-end RAG pipeline, from document ingestion and embedding generation to semantic retrieval and LLM-powered answer generation, with a simple web interface for interacting with the system.
+
+## Screenshot
+
+![RAG Document Assistant Screenshot](screenshot.PNG)
