@@ -37,7 +37,7 @@ A Retrieval-Augmented Generation (RAG) application that uses LangChain, Google G
 
 ## Project Structure
 
-    rag-document-assistant/
+    rag-document-assistant-code/
     ├── app.py
     ├── rag.py
     ├── requirements.txt
@@ -64,8 +64,8 @@ A Retrieval-Augmented Generation (RAG) application that uses LangChain, Google G
 
 Clone the repository:
 
-    git clone https://github.com/PatrickR-Projects/rag-document-assistant.git
-    cd rag-document-assistant
+    git clone https://github.com/atgithub123/rag-document-assistant-code.git
+    cd rag-document-assistant-code
 
 Create and activate a virtual environment:
 
