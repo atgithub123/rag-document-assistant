@@ -2,6 +2,10 @@
 
 A Retrieval-Augmented Generation (RAG) application that uses LangChain, Google Gemini, Hugging Face embeddings, and Streamlit to answer questions based on user-provided PDF and TXT documents.
 
+## Screenshot
+
+![RAG Document Assistant Screenshot](screenshot.PNG)
+
 ## Features
 
 - Load PDF and TXT documents
